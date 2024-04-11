@@ -24,7 +24,7 @@
         </div>
         <div id="content" onchange="protocolDetails()" >
             <form id="MainDetails" onchange="actualname()" >
-                <label for=" protocol">Protocol</label>
+                <label for=" protocol">پروتکل</label>
                 <select name="protocol" id="protocol" >
                     <option value="vless">VLESS</option>
                     <option value="vmess">VMESS</option>
@@ -43,7 +43,7 @@
                 </div>
 
                 <div id="NetWorks" style="display: none;">
-                    <label for="NetWork">Network</label>
+                    <label for="NetWork">نتورک</label>
                     <select name="network" id="network" >
                         <option value="tcpudp">TCP+UDP</option>
                         <option value="tcpS">TCP</option>
@@ -52,7 +52,7 @@
                     </div>
 
                 <div id="idsecurity" >
-                    <label for="security">Security</label>
+                    <label for="security">امنیت</label>
                     <select name="security" >
                         <option value="none">none</option>
                         <option value="tls" id="tls">TLS</option>
@@ -71,16 +71,16 @@
             <form id="protocolDetails" style="display: none;">
                 <div>
                     <label for="name-field">✅ Inbound Name</label>
-                    <input type="text" id="inboundname" value="Inbound Name" name="name-field"
+                    <input type="text" id="inboundname" value="نام اینباند" name="name-field"
                         placeholder="نام اینباند را وارد کنید" onchange="protocolDetails()">
-                        <button type="button" id="random" name="random" onclick="randomize ()">Random Name</button>
-                        <button type="button" id="random" name="random" onclick="actualname()" style="background-color: rgb(16, 169, 240);color: rgb(0, 0, 0);">Optimal Name</button>
+                        <button type="button" id="random" name="random" onclick="randomize ()">بصورت تصادفی</button>
+                        <button type="button" id="random" name="random" onclick="actualname()" style="background-color: rgb(16, 169, 240);color: rgb(0, 0, 0);">سفارشی</button>
                     </div> 
 
                 <div>
-                    <label for="number-field">✅ Port </label>
+                    <label for="number-field">✅ پورت </label>
                     <input type="number" id="port" name="number-field" placeholder="e.g 2053"  onchange="protocolDetails()">
-                        <button type="button" id="randomport" name="port" onclick="randomports()" >Random Port</button>
+                        <button type="button" id="randomport" name="port" onclick="randomports()" >بصورت تصادفی</button>
                 </div>
 
 
@@ -254,9 +254,9 @@
             <hr style="margin-top: 50px;background-color: aliceblue;">
             
                     <center>
-                        <input type="button" value="Copy to Clipboard!" id="sutton" onclick="protocolDetails()">
-                        <input type="button" value="My YouTube Channel" id="youtube">
-                        <input type="button" value="GitHub Repository" id="github" style="margin-top: 20px;">
+                        <input type="button" value="کپی در کلیپبورد" id="sutton" onclick="protocolDetails()">
+                        <input type="button" value="کانال یوتیو من" id="youtube">
+                        <input type="button" value="آدرس گیت هاب" id="github" style="margin-top: 20px;">
                         <input type="button" value="Marzban (Gozargah) on Github" id="github1"
                             style="margin-top: 10px;background-color:bisque;color: black;">
                     </center>
