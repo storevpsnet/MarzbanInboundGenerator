@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/azavaxhuman/MarzbanInboundGenerator">
+  <a href="https://github.com/storevpsnet/MarzbanInboundGenerator">
     <img src="/logo.png" alt="Logo" width="380" >
   </a>
 
@@ -10,14 +10,14 @@
     Make v2ray inbonds easily! Optimized for Marzban panel
     <br/>
     <br/>
-    <a href="https://github.com/azavaxhuman/MarzbanInboundGenerator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/storevpsnet/MarzbanInboundGenerator"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://azavaxhuman.github.io/MarzbanInboundGenerator/">View Demo</a>
+    <a href="https://storevpsnet.github.io/MarzbanInboundGenerator/">View Demo</a>
     .
-    <a href="https://github.com/azavaxhuman/MarzbanInboundGenerator/issues">Report Bug</a>
+    <a href="https://github.com/storevpsnet/MarzbanInboundGenerator/issues">Report Bug</a>
     .
-    <a href="https://github.com/azavaxhuman/MarzbanInboundGenerator/issues">Request Feature</a>
+    <a href="https://github.com/storevpsnet/MarzbanInboundGenerator/issues">Request Feature</a>
   </p>
 </p>
 
@@ -78,14 +78,14 @@ __________
 
 ## YouTube 
 
-You Can find my Videos on Daily Digital Skills Channel . See [YouTube](https://www.youtube.com/@Dailydigitalskills/) for more information.
+You Can find my Videos on KYAVOX Channel . See [YouTube](https://www.youtube.com/@kyavox/) for more information.
 ## License
 
-Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/azavaxhuman/MarzbanInboundGenerator/blob/main/LICENSE.md) for more information.
+Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/storevpsnet/MarzbanInboundGenerator/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **AzavaxHuman** - *Daily Digital Skills* - [AzavaxHuman](https://github.com/azavaxhuman) - **
+* **storevpsnet** - *KYAVOX* - [storevpsnet](https://github.com/storevpsnet) - **
 
 ## Acknowledgements
 
